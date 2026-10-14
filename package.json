@@ -1,0 +1,23 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhafran0408/Belajar-typescript.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zhafran0408/Belajar-typescript/issues"
+  },
+  "homepage": "https://github.com/zhafran0408/Belajar-typescript#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
