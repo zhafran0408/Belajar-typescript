@@ -1,0 +1,21 @@
+declare function sayHello(): void;
+declare function announce(title: string): void;
+declare function showAge(age: number): void;
+declare function getScore(): number;
+declare const score: number;
+declare function getNumber(): number;
+declare const numberFromFunction: number;
+declare function double(n: number): number;
+declare const doubled: number;
+declare function greet(name: string): void;
+declare function tambah(a: number, b: number): number;
+declare const hasilTambah: number;
+declare const word: string;
+declare const username: string;
+declare const title: string;
+declare function square(n: number): number;
+declare function printHello(): void;
+declare function getZero(): number;
+declare function boost(fuel: number): number;
+declare const total: number;
+//# sourceMappingURL=05-function.d.ts.map
